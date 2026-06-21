@@ -1,0 +1,4 @@
+name: QIITOrd
+include: src
+depend: cubical
+flags: --guardedness -WnoUnsupportedIndexedMatch
